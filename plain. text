@@ -1,0 +1,13 @@
+industrial_defect_system/
+│
+├── backend/
+│   ├── main.py
+│   ├── detector.py
+│   ├── database.py
+│   ├── models/
+│   │   └── defect_model.pt
+│   ├── uploads/
+│   └── results/
+│
+├── requirements.txt
+└── README.md
